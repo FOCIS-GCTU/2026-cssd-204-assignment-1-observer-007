@@ -26,3 +26,5 @@ jobs:
         INITIALS_TEST-PY_RESULTS: "${{steps.initials_test-py.outputs.result}}"
       with:
         runners: initials_test-py
+
+ 
