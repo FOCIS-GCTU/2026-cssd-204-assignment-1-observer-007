@@ -4,8 +4,8 @@
 #
 # Name: Desmond Essel
 # Student ID: 2425400647
-# Email: mrrr.essel@gmail.com
-# Grader:Mr Augustus Buckman
+# Email: 2425400647@live.gctu.edu.gh
+# Grader: Mr Augustus Buckman
 #
 # On my honor, Desmond Essel, this programming assignment is my own work
 # and I have not provided this to any other student.
